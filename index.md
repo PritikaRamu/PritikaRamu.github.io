@@ -24,7 +24,7 @@ I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](htt
 <br>**Pritika Ramu**, Sijia Wang, Lalla Mouatadid, Joy Rimchala, Lifu Huang
 
 [Zooming in on Zero-Shot Intent-Guided and Grounded Document Generation using LLMs]() 
-<br>**INLG 2024** *_(oral presentaion)_* \<br>**Pritika Ramu**, Pranshu Gaur, Rishita Emandi, Himanshu Maheshwari, Danish Javed and Aparna Garimella;
+<br>**INLG 2024** *(oral presentaion)* <br>**Pritika Ramu**, Pranshu Gaur, Rishita Emandi, Himanshu Maheshwari, Danish Javed and Aparna Garimella;
 
 
 
