@@ -4,7 +4,7 @@ author_profile: true
 author: Pritika Ramu
 toc: true
 ---
-Hi, I am Pritika. I'm currently working as a Research Associate at [Adobe Research](https://research.adobe.com/). I graduated with a B.E. in Computer Science Engineering from [Birla Institute of Technology and Science, Pilani (BITS, Pilani)](https://www.bits-pilani.ac.in/). My research interests lie at the intersection natural language processing and human-computer interaction. 
+Hi, I am Pritika. I am currently working as a Research Associate at [Adobe Research](https://research.adobe.com/). I graduated with a Bachelor of Engineering in Computer Science from [Birla Institute of Technology and Science, Pilani (BITS, Pilani)](https://www.bits-pilani.ac.in/). My research interests lie at the intersection of natural language processing (NLP) and human-computer interaction (HCI).
 
 
 ## Research
@@ -24,7 +24,7 @@ I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](htt
 <br>**Pritika Ramu**, Sijia Wang, Lalla Mouatadid, Joy Rimchala, Lifu Huang
 
 [Zooming in on Zero-Shot Intent-Guided and Grounded Document Generation using LLMs]() 
-<br>**INLG 2024** *(oral presentaion)* <br>**Pritika Ramu**, Pranshu Gaur, Rishita Emandi, Himanshu Maheshwari, Danish Javed and Aparna Garimella;
+<br>**INLG 2024** *(oral presentaion)* <br>**Pritika Ramu**, Pranshu Gaur, Rishita Emandi, Himanshu Maheshwari, Danish Javed and Aparna Garimella
 
 
 
