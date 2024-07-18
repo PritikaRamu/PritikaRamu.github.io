@@ -20,9 +20,9 @@ Pritika Ramu:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pritika-ramu-3921491ab/"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/InderjeetNair"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/r_pritika"
 
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
