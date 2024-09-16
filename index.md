@@ -46,13 +46,13 @@ Minimally Guided Semantic Extraction
 ## Work Experience
 
 
-### Adobe Research Labs, Bangalore
+### Adobe Research, Bangalore
 Research Associate - Jul 2023 - Present
 
 ### VT-NLP Lab, Blacksburg
 Research Assistant - Jan 2023 - Jun 2023
 
-### Adobe, Research Labs, Bangalore
+### Adobe Research, Bangalore
 Research Intern — Jun 2022 - August 2022
 
 ### Goibibo, Bangalore
