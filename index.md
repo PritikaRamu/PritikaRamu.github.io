@@ -16,15 +16,25 @@ I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](htt
 
 ## Publications and Preprints
 
-[Is this a bad table? A Closer Look at the Evaluation of Table Generation from Text](https://arxiv.org/abs/2406.14829) 
+[Is This a Bad Table? A Closer Look at the Evaluation of Table Generation from Text](https://arxiv.org/abs/2406.14829) 
+<br>**EMNLP 2024** *(upcoming)*
 <br>**Pritika Ramu**, Aparna Garimella, Sambaran Bandyopadhyay
+
+[Enhancing Post-Hoc Attributions in Long Document Comprehension via Coarse Grained Answer Decomposition](https://www.arxiv.org/abs/2409.17073) 
+<br>**EMNLP 2024** *(upcoming)*
+<br>**Pritika Ramu**, Koustava Goswami, Apoorv Saxena, Balaji Vasan Srinivavsan
+
+[Unraveling the Truth: Do LLMs really Understand Charts? A Deep Dive into Consistency and Robustness](https://arxiv.org/abs/2407.11229) 
+<br>**EMNLP 2024 Findings** *(upcoming)*
+<br>Srija Mukhopadhyay, Adnan Qidwai, Aparna Garimella, **Pritika Ramu**, Vivek Gupta, Dan Roth
+
+[Zooming in on Zero-Shot Intent-Guided and Grounded Document Generation using LLMs](https://aclanthology.org/2024.inlg-main.52/) 
+<br>**INLG 2024** *(oral presentaion)* 
+<br>**Pritika Ramu**, Pranshu Gaur, Rishita Emandi, Himanshu Maheshwari, Danish Javed and Aparna Garimella
 
 [RE<sup>2</sup>: Region-Aware Relation Extraction from Visually Rich Documents](https://aclanthology.org/2024.naacl-long.484/) 
 <br>**NAACL 2024** 
 <br>**Pritika Ramu**, Sijia Wang, Lalla Mouatadid, Joy Rimchala, Lifu Huang
-
-[Zooming in on Zero-Shot Intent-Guided and Grounded Document Generation using LLMs](https://aclanthology.org/2024.inlg-main.52/) 
-<br>**INLG 2024** *(oral presentaion)* <br>**Pritika Ramu**, Pranshu Gaur, Rishita Emandi, Himanshu Maheshwari, Danish Javed and Aparna Garimella
 
 
 
