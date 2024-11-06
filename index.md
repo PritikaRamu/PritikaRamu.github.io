@@ -42,16 +42,16 @@ I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](htt
 
 Planning-based Method to Assist Intent-guided and Grounded Document Generation using LLMs
 <br>**Pritika Ramu**, Aparna Garimella, Himanshu Maheshwari
-<br>US Patent Application to be filed; Adobe Inc.
+<br>US Patent Application 18/891,558; Adobe Inc.
+
+Minimally Guided Semantic Extraction
+<br>Inderjeet Nair, **Pritika Ramu**, Akshay Singhal, Kumud Lakara, Vikas Balani, Anandhavelu N
+<br>US Patent Application 18/360,721; Adobe Inc.
 
 Multimodal Grounded Content Expansion
 <br>Pranshu Gaur, Danish Javed, Rishita Emandi, Himanshu Maheshwari, **Pritika Ramu**, Aparna
 Garimella
 <br>US Patent Application to be filed; Adobe Inc.
-
-Minimally Guided Semantic Extraction
-<br>Inderjeet Nair, **Pritika Ramu**, Akshay Singhal, Kumud Lakara, Vikas Balani, Anandhavelu N
-<br>US Patent Application filed; Adobe Inc.
 
 ## Work Experience
 
