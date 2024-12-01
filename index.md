@@ -9,7 +9,7 @@ Hi, I am Pritika. I'm currently working as a Research Associate at [Adobe Resear
 
 ## Research
 
-At [Adobe Research](https://research.adobe.com/), I primarily work with Dr. [Aparna Garimella](https://research.adobe.com/person/aparna-garimella/) on document experience projects which involve creation and transformation of documents into other consumable formats (reports, slides, infographics). My focus areas include ambiguity resolution, personalization, factuality, content planning and generation of structured content (tables and charts).
+At [Adobe Research](https://research.adobe.com/), I primarily work with Dr. [Aparna Garimella](https://research.adobe.com/person/aparna-garimella/) and Dr. [Balaji V. Srinivasan](https://research.adobe.com/person/balaji-vasan-srinivasan/) on document experience projects which involve creation and transformation of documents into other consumable formats (reports, slides, infographics). My focus areas include ambiguity resolution, personalization, factuality, content planning and generation of structured content (tables and charts).
 
 I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](https://wilburone.github.io/) at Virginia Tech. My project focused on the extraction of key-value pairs from domain and language agnostic visually rich documents, utilizing NLP and graph techniques. During my undergraduate studies, I explored various research fields including biometric authentication, route optimization, and time-series forecasting under the guidance of Prof. [Kamlesh Tiwari](https://ktiwari.in/).
 
@@ -17,15 +17,15 @@ I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](htt
 ## Publications and Preprints
 
 [Is This a Bad Table? A Closer Look at the Evaluation of Table Generation from Text](https://arxiv.org/abs/2406.14829) 
-<br>**EMNLP 2024** *(upcoming)*
+<br>**EMNLP 2024** *(short)*
 <br>**Pritika Ramu**, Aparna Garimella, Sambaran Bandyopadhyay
 
 [Enhancing Post-Hoc Attributions in Long Document Comprehension via Coarse Grained Answer Decomposition](https://www.arxiv.org/abs/2409.17073) 
-<br>**EMNLP 2024** *(upcoming)*
-<br>**Pritika Ramu**, Koustava Goswami, Apoorv Saxena, Balaji Vasan Srinivavsan
+<br>**EMNLP 2024**
+<br>**Pritika Ramu**, Koustava Goswami, Apoorv Saxena, Balaji Vasan Srinivasan
 
 [Unraveling the Truth: Do LLMs really Understand Charts? A Deep Dive into Consistency and Robustness](https://arxiv.org/abs/2407.11229) 
-<br>**EMNLP 2024 Findings** *(upcoming)*
+<br>**EMNLP 2024 Findings**
 <br>Srija Mukhopadhyay, Adnan Qidwai, Aparna Garimella, **Pritika Ramu**, Vivek Gupta, Dan Roth
 
 [Zooming in on Zero-Shot Intent-Guided and Grounded Document Generation using LLMs](https://aclanthology.org/2024.inlg-main.52/) 
