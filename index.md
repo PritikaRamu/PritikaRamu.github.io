@@ -53,6 +53,10 @@ Multimodal Grounded Content Expansion
 Garimella
 <br>US Patent Application to be filed; Adobe Inc.
 
+## CV
+
+[PDF]({{site.url}}/Pritika_Ramu_grad_school_cv.pdf)
+
 ## Work Experience
 
 
