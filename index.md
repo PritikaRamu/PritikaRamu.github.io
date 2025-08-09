@@ -16,6 +16,18 @@ I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](htt
 
 ## Publications and Preprints
 
+[StyleAdaptedLM: Enhancing Instruction Following Models with Efficient Stylistic Transfer](https://arxiv.org/abs/2507.18294)
+<br>*Preprint*
+<br>**Pritika Ramu**, Apoorv Saxena, Meghanath M Y, Varsha Sankar, Debraj Basu
+
+[Doc2Chart: Intent-Driven Zero-Shot Chart Generation from Documents](https://arxiv.org/abs/2507.14819)
+<br>*Preprint*
+<br>Akriti Jain, **Pritika Ramu**, Aparna Garimella, Apoorv Saxena
+
+[Infogen: Generating Complex Statistical Infographics from Documents](https://arxiv.org/abs/2507.20046)
+<br>**ACL 2025**
+<br>Akash Ghosh, Aparna Garimella, **Pritika Ramu**, Sambaran Bandyopadhyay, Sriparna Saha
+
 [Is This a Bad Table? A Closer Look at the Evaluation of Table Generation from Text](https://arxiv.org/abs/2406.14829) 
 <br>**EMNLP 2024** *(short)*
 <br>**Pritika Ramu**, Aparna Garimella, Sambaran Bandyopadhyay
@@ -37,21 +49,29 @@ I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](htt
 <br>**Pritika Ramu**, Sijia Wang, Lalla Mouatadid, Joy Rimchala, Lifu Huang
 
 
-
 ## Patents
 
-Planning-based Method to Assist Intent-guided and Grounded Document Generation using LLMs
-<br>**Pritika Ramu**, Aparna Garimella, Himanshu Maheshwari
-<br>US Patent Application 18/891,558; Adobe Inc.
+Generating Charts from Documents based on User Intent and Document Data
+<br>**Pritika Ramu**, Aparna Garimella, Akriti Jain
+<br>US Patent Application 19/226,748; Adobe Inc.
 
-Minimally Guided Semantic Extraction
-<br>Inderjeet Nair, **Pritika Ramu**, Akshay Singhal, Kumud Lakara, Vikas Balani, Anandhavelu N
-<br>US Patent Application 18/360,721; Adobe Inc.
+Customizing Generative Machine Learning Model Output
+<br>**Pritika Ramu**, Varsha Sankar, Meghanath M Y, Debraj Debashish Basu, Apoorv Umang Saxena
+<br>US Patent Application 119/195,421; Adobe Inc. 
 
 Multimodal Grounded Content Expansion
 <br>Pranshu Gaur, Danish Javed, Rishita Emandi, Himanshu Maheshwari, **Pritika Ramu**, Aparna
 Garimella
-<br>US Patent Application to be filed; Adobe Inc.
+<br>US Patent Application 19/175,920; Adobe Inc.
+
+Intent-guided and Grounded Document Generation
+<br>**Pritika Ramu**, Aparna Garimella, Himanshu Maheshwari
+<br>US Patent Application 18/891,558; Adobe Inc.
+
+Prompt-based Few-Shot Entity Extraction
+<br>Inderjeet Nair, **Pritika Ramu**, Akshay Singhal, Kumud Lakara, Vikas Balani, Anandhavelu N
+<br>US Patent Application 18/360,721; Adobe Inc. *(Published)*
+
 
 ## CV
 
