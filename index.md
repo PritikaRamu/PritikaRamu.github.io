@@ -4,7 +4,9 @@ author_profile: true
 author: Pritika Ramu
 toc: true
 ---
-Hi, I am Pritika. I'm currently working as a Research Associate at [Adobe Research](https://research.adobe.com/). I graduated with a Bachelor of Engineering in Computer Science from [Birla Institute of Technology and Science, Pilani (BITS, Pilani)](https://www.bits-pilani.ac.in/). I am interested in Human-LM interaction for creative tasks.
+Hi! I'm a first year PhD student in the [Department of Computer Science](https://www.cs.umd.edu/) at the [University of Maryland, College Park](https://umd.edu/) where I'm advised by Prof. Rachel Rudinger. I’m a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in [UMIACS](https://www.umiacs.umd.edu/).
+
+Previously I worked as a Research Associate at [Adobe Research](https://research.adobe.com/). I graduated with a Bachelor of Engineering in Computer Science from [Birla Institute of Technology and Science, Pilani (BITS, Pilani)](https://www.bits-pilani.ac.in/).
 
 
 ## Research
@@ -21,7 +23,7 @@ I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](htt
 <br>**Pritika Ramu**, Apoorv Saxena, Meghanath M Y, Varsha Sankar, Debraj Basu
 
 [Doc2Chart: Intent-Driven Zero-Shot Chart Generation from Documents](https://arxiv.org/abs/2507.14819)
-<br>*Preprint*
+<br>**EMNLP 2025**
 <br>Akriti Jain, **Pritika Ramu**, Aparna Garimella, Apoorv Saxena
 
 [Infogen: Generating Complex Statistical Infographics from Documents](https://arxiv.org/abs/2507.20046)
