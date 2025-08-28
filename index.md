@@ -81,9 +81,8 @@ Prompt-based Few-Shot Entity Extraction
 
 ## Work Experience
 
-
 ### Adobe Research, Bangalore
-Research Associate - Jul 2023 - Present
+Research Associate - Jul 2023 - Aug 2025
 
 ### VT-NLP Lab, Blacksburg
 Research Assistant - Jan 2023 - Jun 2023
