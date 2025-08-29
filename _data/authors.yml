@@ -5,12 +5,12 @@ Pritika Ramu:
   bio         : "Research Associate at Adobe Research"
   avatar      : "profile.jpeg"
   links:
-    - label: "Bangalore, India"
+    - label: "College Park, MD"
       icon: "fas fa-fw fa-map-marker-alt"
       url: /
-    - label: "pritikaramu1 [at] gmail.com"
+    - label: "pramu [at] umd [dot] edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pritikaramu1r1@gmail.com"
+      url: "mailto:pramu@umd.edu"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PritikaRamu"
