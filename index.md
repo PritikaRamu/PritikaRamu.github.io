@@ -11,7 +11,7 @@ Previously, I worked as a Research Associate at [Adobe Research](https://researc
 
 ## Research
 
-At [Adobe Research](https://research.adobe.com/), I primarily work with Dr. [Aparna Garimella](https://research.adobe.com/person/aparna-garimella/) and Dr. [Balaji V. Srinivasan](https://research.adobe.com/person/balaji-vasan-srinivasan/) on document experience projects which involve creation and transformation of documents into other consumable formats (reports, slides, infographics). My focus areas include ambiguity resolution, personalization, factuality, content planning and generation of structured content (tables and charts).
+At [Adobe Research](https://research.adobe.com/), I primarily worked with Dr. [Aparna Garimella](https://research.adobe.com/person/aparna-garimella/) and Dr. [Balaji V. Srinivasan](https://research.adobe.com/person/balaji-vasan-srinivasan/) on document experience projects which involved creation and transformation of documents into other consumable formats (reports, slides, infographics). My focus areas included ambiguity resolution, personalization, factuality, content planning and generation of structured content (tables and charts).
 
 I completed my bachelor's thesis under the supervision of Prof. [Lifu Huang](https://wilburone.github.io/) at Virginia Tech. My project focused on the extraction of key-value pairs from domain and language agnostic visually rich documents, utilizing NLP and graph techniques. During my undergraduate studies, I explored various research fields including biometric authentication, route optimization, and time-series forecasting under the guidance of Prof. [Kamlesh Tiwari](https://ktiwari.in/).
 
